@@ -1,1 +1,1 @@
-web: sh setup.sh && pip install streamlit && streamlit run --server.port $PORT myapp.py
+web: sh setup.sh && streamlit run --server.port $PORT myapp.py

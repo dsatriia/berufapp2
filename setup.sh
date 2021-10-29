@@ -5,3 +5,5 @@ headless = true
 port = $PORT
 enableCORS = false
 " > ~/.streamlit/config.toml
+
+pip install streamlit
